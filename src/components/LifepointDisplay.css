@@ -1,0 +1,15 @@
+/* styles.css */
+.lifepoint-display {
+    font-size: 2rem;
+    /* Adjust size as needed */
+    display: flex;
+}
+
+.digit {
+    display: inline-block;
+    font-size: 2rem;
+    /* Adjust size as needed */
+    font-family: 'Arial', sans-serif;
+    transition: opacity 0.5s ease-in-out;
+    /* Smooth transition for final digits */
+}
